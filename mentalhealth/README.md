@@ -8,7 +8,7 @@ These sketches give you ideas on how to use aspects of COMPUTER VISION, FACIAL R
 ### Sample Video
 You can use any video... probably need to download and transcode it to formats your computer can use.
 
-![alt text](https://youtu.be/4YhpWZCdiZc "Video Sample")
+[https://youtu.be/4YhpWZCdiZc "Video Sample"]
 
 ## Everything is a signal and can be decomposed into small signals
 Using modern Machine Learning and Signal Processing we do not need to force users, computers, etc to be formal in expressing themselves.  We can simply let them do whatever however works for them and we can observe, decompose and synthesize.
