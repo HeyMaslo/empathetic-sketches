@@ -1,6 +1,10 @@
 # Emotional Programming
 These sketches give you ideas on how to use aspects of COMPUTER VISION, FACIAL RECOGNITION, SENTIMENT ANALYSIS and SYMBOLIC PROGRAMMING to create a new way to construct informal and formal programs.
 
+
+![alt text](https://github.com/HeyMaslo/empathetic-sketches/tree/master/emotionprogramming/facecompute.png "Sample Face Programming")
+
+
 ## Expressive Language
 The primary programming language interface can be anything.  All programming is some way of communicating ideas from humans to computers or other computers to computers or computers to humans.
 
