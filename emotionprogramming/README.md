@@ -2,7 +2,7 @@
 These sketches give you ideas on how to use aspects of COMPUTER VISION, FACIAL RECOGNITION, SENTIMENT ANALYSIS and SYMBOLIC PROGRAMMING to create a new way to construct informal and formal programs.
 
 
-![alt text](https://github.com/HeyMaslo/empathetic-sketches/tree/master/emotionprogramming/facecompute.png "Sample Face Programming")
+![alt text](https://github.com/HeyMaslo/empathetic-sketches/blob/master/emotionprogramming/facecompute.png?raw=true "Sample Face Programming")
 
 
 ## Expressive Language
