@@ -1,0 +1,13 @@
+{
+  "name": "remap",
+  "repo": "mnmly/remap",
+  "description": "Re-maps a number from one range to another.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
